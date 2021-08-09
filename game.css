@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans+Condensed:300,700');
+
+body{
+	background: darkslateblue;
+	font-family: 'IBM Plex Sans Condensed', sans-serif;
+}
+
+
+.login_div1 , .login_div2
+	{
+		float: none;
+		background: mediumslateblue;
+		padding: 2em;
+		box-shadow: 20px 20px slateblue;
+	}
+
+
+#welcomehead{
+	background-color:  slateblue;
+	
+}
+
+marquee{
+	background: slateblue;
+}
+
+#button{
+	border: 1px;
+	background: mediumslateblue;
+    padding: 10px;
+    box-shadow: 5px 5px  slateblue;
+}
+
+#everythingdiv{
+		float: none;
+		background: mediumslateblue;
+		padding: 2em;
+		box-shadow: 20px 20px slateblue;
+}
+
+#output{
+	background: white;
+	border-top: 10px solid slateblue;
+	padding: 10px;
+	float: none;
+	text-align: left;
+	box-shadow: 5px 5px lightgray;
+}
+
+#sendButton{
+	border: 1px;
+	background: mediumslateblue;
+    padding: 10px;
+    box-shadow: 5px 5px  slateblue;
+}
